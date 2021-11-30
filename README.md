@@ -55,7 +55,7 @@ go-diagramsというフォルダに各種アセット(※アイコンのこと)�
 
 ## 図化します
 
-**Graphviz**で図化します。
+[Graphvizで図化します(https://graphviz.org/)
 
 ```
 dot.exe -Tpng .\go-diagrams\nw.dot > nw.png
